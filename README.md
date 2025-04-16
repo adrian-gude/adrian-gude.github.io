@@ -37,3 +37,5 @@ Here are some selected works I've contributed to or developed:
 - Email: adrianlopezgude@email.com  
 - GitHub: [@adrian-gude](https://github.com/adrian-gude)  
 - LinkedIn: [adrian-gude](https://www.linkedin.com/in/adrian-l%C3%B3pez-gude/)  
+- My CV here: [CV](./assets/CV/CV_Adrian.pdf)
+
