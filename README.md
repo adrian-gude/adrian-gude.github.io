@@ -14,10 +14,6 @@ Graduated in **Computer Science (2018–2022)** and currently preparing my **Mas
 
 ---
 
-Always show details
-# Crear una nueva sección dentro del README.md para "Papers"
-readme_with_papers = """# 👨‍🔬 Adrián — AI Researcher
-
 I am a full-time researcher in the **LyS Group (University of A Coruña)** and currently working as a **substitute lecturer** at the Faculty of Computer Science (UDC).
 
 Graduated in **Computer Science (2018–2022)** and currently preparing my **Master Thesis in Computer Science**, focused on advanced deep learning models.
