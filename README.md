@@ -1,41 +1,133 @@
 # 👨‍🔬 Adrián — AI Researcher
 
-I am a full-time researcher in the **LyS Group (University of A Coruña)** and currently working as a **substitute lecturer** at the Faculty of Computer Science (UDC).
+I am a full-time researcher in the **LyS Research Group (University of A Coruña)**.
 
-Graduated in **Computer Science (2018–2022)** and currently preparing my **Master Thesis in Computer Science**, focused on advanced deep learning models.
+I hold a **B.Sc. in Computer Science (2018–2022)** and I am completed my **M.Sc. Thesis in Computer Science**, focusing on advanced deep learning models for Natural Language Processing. I also started recently my PhD called "Natural language processing and text mining in low-resource scenarios: deep learning-based methods."
 
 ---
 
 ## 🧠 Research Interests
 
-- **Natural Language Processing** · Biomedical NLP  
-- **Reinforcement Learning** · Recommender Systems  
-- **Information Retrieval** · Language System Models for Biomedical Applications  
+- **Natural Language Processing (NLP)**
+- **Large Language Models (LLMs)**
+- **Information Retrieval**
+- **Code Generation**
+- **Biomedical NLP**
+- **Reinforcement Learning**
+- **Recommender Systems**
 
 ---
 
-## 📄 Papers
+# 📄 Publications
 
-Here are some selected works I've contributed to or developed:
+## 2026
 
-- 🧬 **LyS at SemEval 2025 Task 8: Zero-Shot Code Generation for Tabular QA**  
-  *[
-  [Adrián Gude](https://github.com/adrian-gude), 
-  [Roi Santos-Ríos](https://github.com/Dunque), 
-  [Francisco Prado-Valiño](https://github.com/franciscopradovalino), 
-  [Ana Ezquerro](https://github.com/anaezquerro), 
-  [Jesús Vilares](https://pdi.udc.es/es/File/Pdi/RF9AF)
-  ]*  
-  In the 19th International Workshop on Semantic Evaluation (SemEval 2025), co‑located with **EMNLP 2025**.  
-  [Code](https://github.com/adrian-gude/Tabular_QA)
+### 📖 More Aligned, Less Diverse? Analyzing the Grammar and Lexicon of Two Generations of LLMs
 
-(*More papers and publications will be added soon.*)
+**Authors**
 
+- Adrián Gude
+- Roi Santos-Ríos
+- Francis Bond
+- Dan Flickinger
+- Carlos Gómez-Rodríguez
+- Olga Zamaraeva
+
+**Venue**
+
+The 64th Annual Meeting of the Association for Computational Linguistics (**ACL 2026**)
+
+**Links**
+
+- 📄 Paper: https://aclanthology.org/2026.acl-long.1803/
+- 💻 Code:  https://github.com/olzama/llm-syntax
+
+---
+
+## 2025
+
+### 🥇 LyS at SemEval 2025 Task 8: Zero-Shot Code Generation for Tabular QA
+
+**Authors**
+
+- Adrián López Gude
+- Roi Santos-Ríos
+- Francisco Prado-Valiño
+- Ana Ezquerro
+- Jesús Vilares
+
+**Venue**
+
+*Proceedings of the 19th International Workshop on Semantic Evaluation (SemEval 2025)*
+
+**Links**
+
+- 📄 Paper: https://aclanthology.org/2025.semeval-1.171/
+- 💻 Code: https://github.com/adrian-gude/Tabular_QA
+
+---
+
+### 📖 Automated Code Generation for Tabular Question Answering in Zero-Shot Settings
+
+**Authors**
+
+- Adrián López Gude
+- Roi Santos-Ríos
+- Francisco Prado-Valiño
+- Ana Ezquerro
+- Jesús Vilares
+
+**Venue**
+
+*Proceedings of XoveTIC 2025 — The 8th XoveTIC Conference*, A Coruña, Spain.
+
+---
+
+### 📖 LyS at IberLEF 2025 Task PRESTA: Zero-Shot Code Generation for Spanish Tabular QA
+
+**Authors**
+
+- Roi Santos-Ríos
+- Adrián Gude
+- Francisco Prado-Valiño
+- Ana Ezquerro
+- Jesús Vilares
+
+**Venue**
+
+*IberLEF 2025 — Iberian Languages Evaluation Forum*  
+CEUR Workshop Proceedings, Vol. 4098.
+
+**Links**
+
+- 📄 Paper: https://ceur-ws.org/Vol-4098/
+
+---
+
+### 📖 Using Syntactic Theory to Study Properties of Human-Authored vs. LLM-generated News Text
+
+**Authors**
+
+- Olga Zamaraeva
+- Adrián Gude
+- Roi Santos-Ríos
+- Francis Bond
+- Dan Flickinger
+- Carlos Gómez-Rodríguez
+
+**Venue**
+
+*Symposium on Green Artificial Intelligence*, A Coruña, Spain.
+
+**Links**
+
+- 📄 Proceedings: https://catedrainditexalgoritmosverdes.com/en/publications-symposium-on-green-artificial-intelligence/
+
+---
 
 ## 📫 Contact
 
-- Email: adrianlopezgude@email.com  
-- GitHub: [@adrian-gude](https://github.com/adrian-gude)  
-- LinkedIn: [adrian-gude](https://www.linkedin.com/in/adrian-l%C3%B3pez-gude/)  
-- My CV here: [CV](./assets/CV/CV_Adrian.pdf)
-
+- 📧 Email: adrianlopezgude@email.com
+- 💻 GitHub: https://github.com/adrian-gude
+- 🔗 LinkedIn: https://www.linkedin.com/in/adrian-l%C3%B3pez-gude/
+- 📄 CV: ./assets/CV/CV_Adrian.pdf
